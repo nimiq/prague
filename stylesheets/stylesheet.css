@@ -251,3 +251,11 @@ a {
 .todo {
   color: darkred;
 }
+
+ul {
+  padding-left: 30px;
+}
+
+ul ul {
+  padding-left: 15px;
+}
