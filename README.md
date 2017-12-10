@@ -1,2 +1,2 @@
 # Trip to Prague
-https://nimiq.github.io/prague/
+https://puntonim.github.io/prague/
